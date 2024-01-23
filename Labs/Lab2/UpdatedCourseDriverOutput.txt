@@ -1,0 +1,4 @@
+course1: CS1073 offered Fall 2020 Students: 23 Instructor: Leah Bidlake
+course2: CS1083 offered Winter 2021 Students: 17 Instructor: Leah Bidlake
+course3: MATH1013 offered Summer 2021 Students: 31 Instructor: Justine Gauthier
+course4: MATH1503 offered Winter 2024 Students: 4 Instructor: Mahin Salmani
