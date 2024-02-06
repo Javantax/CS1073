@@ -1,0 +1,12 @@
+Monika Schulz
+Coyote Field, 7
+
+Miguel Florez
+Raven Field, 42
+
+Katharine Doucet
+Salmon Field, 25
+
+Amount owed by Monika Schulz: 492.20000000000005
+Amount owed by Miguel Florez: 598.5
+Amount owed by Katharine Doucet: 444.1
